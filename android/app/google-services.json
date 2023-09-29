@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "821410609040",
+    "firebase_url": "https://kuriftu-9d6e8-default-rtdb.firebaseio.com",
+    "project_id": "kuriftu-9d6e8",
+    "storage_bucket": "kuriftu-9d6e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821410609040:android:79767399fd4e1098192515",
+        "android_client_info": {
+          "package_name": "com.example.kuriftu_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821410609040-q2it1b2q7o0cdvao33veh30oio69m1uv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kuriftu_app",
+            "certificate_hash": "854e74633575e1d0ec9cc53d4939a9ca8e6554f1"
+          }
+        },
+        {
+          "client_id": "821410609040-dq1h8k6ihlnafdas3427l73536m6fmls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgcKqEYMwmSgl_ZBsReD4W6vCNS9lUdQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821410609040-dq1h8k6ihlnafdas3427l73536m6fmls.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "821410609040-m6701shgreh2c432q24lbk99vbg063oj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kuriftuApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
